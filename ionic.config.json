@@ -1,0 +1,8 @@
+{
+  "name": "sdg-game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d1484536"
+}
